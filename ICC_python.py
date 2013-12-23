@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 
 ssid = raw_input("Por favor introduzca el ICC:")
 j = 0
